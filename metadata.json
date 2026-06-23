@@ -1,0 +1,6 @@
+{
+  "name": "Spark",
+  "description": "A high-performance modern dating application featuring real-time chat, video calling, and premium subscriptions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
